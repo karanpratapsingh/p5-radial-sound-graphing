@@ -16,7 +16,7 @@ function toggleSong() {
 
 function preload() {
 
-  song = loadSound('music/sr-4.mp3');
+  song = loadSound('sr-4.mp3');
 }
 
 function setup() {
